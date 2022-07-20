@@ -213,3 +213,12 @@ section {
     font-weight: lighter;
     color: deeppink;
 }
+
+.copy {
+    font-size: 1.0em;
+    padding: 0 12px 0 0;
+    font-size: medium;
+    font-weight: inherit;
+    font-style: oblique;
+    color: lime;
+}
